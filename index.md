@@ -60,12 +60,10 @@ In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti
 
 #### Contatti e ricevimento
 
-- [Simone Palazzo](mailto:simone.palazzo@unict.it)
-- [Isaak Kavasidis](mailto:kavasidis@dieei.unict.it)
+- [Federica Proietto Salanitri](mailto:federica.proiettosalanitri@unict.it)
 
 Gli orari di ricevimento sono i seguenti:
-- martedì, dalle 17 alle 18
 - mercoledì, dalle 17 alle 18
 
 I ricevimenti possono essere tenuti di presenza, presso il Polo Tecnologico, Lab. Mednetna, o online.
-È consigliabile contattare i docenti via e-mail prima di presentarsi al ricevimento, per ogni evenienza.
+È consigliabile contattare il docente via e-mail prima di presentarsi al ricevimento, per ogni evenienza.
