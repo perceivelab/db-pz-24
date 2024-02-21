@@ -47,7 +47,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione progettazione logica        | 24 Maggio 2024 |11-14            |                                 |                 |
 | Esercitazione progettazione               | 27 Maggio 2024 |15-19            |                                 |                 |
 | Esercitazione progettazione               | 31 Maggio 2024 |11-14            |                                 |                 | 
-| Prova in itinere Progettazione            | 07 Giugno 2024 |TBD              |                                 |                 | 
+| **Prova in itinere Progettazione**        | 07 Giugno 2024 |TBD              |                                 |                 | 
 
 #### Esami
 
