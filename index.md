@@ -61,11 +61,11 @@ In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti
 #### Contatti e ricevimento
 
 - [Concetto Spampinato](mailto:concetto.spampinato@unict.it)
-- [Federica Proietto Salanitri](mailto:federica.proiettosalanitri@unict.it)
-
 Gli orari di ricevimento sono i seguenti:
-- martedì, dalle 10 alle 12
-- giovedì, dalle 10 alle 12
+  - martedì, dalle 10 alle 12
+  - giovedì, dalle 10 alle 12
+- [Federica Proietto Salanitri](mailto:federica.proiettosalanitri@unict.it)
+  - mercoledì, dalle 17 alle 18
 
 I ricevimenti possono essere tenuti in presenza, presso il Polo Tecnologico, Lab. Mednetna, o online.
 È consigliabile contattare il docente via e-mail prima di presentarsi al ricevimento, per ogni evenienza.
