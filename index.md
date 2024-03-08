@@ -5,8 +5,6 @@ layout: default
 
 #### Orario delle lezioni
 
-**TBD**
-
 | Giorno          | Aula |
 | :-------------: |      |
 | Lunedì  15-18 |  D03  | 
