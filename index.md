@@ -27,7 +27,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Introduzione Corso                        | 08 Marzo 2024  |11-13            |[Introduzione](https://tinyurl.com/introdbpz)                     |                 | 
 | Modello relazionale                       | 08 Marzo 2024  |11-13            |[Modello Relazionale](https://tinyurl.com/modelrelazionale)       |                 | 
 | Algebra relazionale                       | 11 Marzo 2024  |15-17            |[Algebra Relazionale](https://tinyurl.com/algebrarel)             |                 |
-| Esercitazione Algebra relazionale         | 15 Marzo 2024  |11-14            |                                 |                 |
+| Esercitazione Algebra relazionale         | 15 Marzo 2024  |11-14            |[Testo 1](https://tinyurl.com/es1alrel) [Testo 2](https://tinyurl.com/es2alrel)  |[How To Use Relax](https://tinyurl.com/howuserelax)                 |
 | SQL: Concetti di base                     | 18 Marzo 2024  |15-17            |                                 |                 |
 | SQL: Avanzato + MySQL                     | 22 Marzo 2024  |11-14            |                                 |                 |
 | Esercitazione MySQL                       | 25 Marzo 2024  |15-18            |                                 |                 |
