@@ -66,7 +66,7 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
     
     |#      | Homework                  | Data Assegnazione | Data Consegna    |
     |------ | ------------------------- | ----------------  | ---------------- |
-    | 1     | [Algebra Relazionale](https://tinyurl.com/hw1algebrel)| 15 Marzo 2024     | 22 Marzo 2024    |
+    | 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1)| 15 Marzo 2024     | 22 Marzo 2024    |
     | 2     |                           |                   |                  |
     | 3     |                           |                   |                  |
     | 4     |                           |                   |                  |
