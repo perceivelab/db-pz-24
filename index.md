@@ -28,9 +28,9 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Modello relazionale                       | 08 Marzo 2024  |11-13            |[Modello Relazionale](https://tinyurl.com/modelrelazionale)       |                 | 
 | Algebra relazionale                       | 11 Marzo 2024  |15-17            |[Algebra Relazionale](https://tinyurl.com/algebrarel)             |                 |
 | Esercitazione Algebra relazionale         | 15 Marzo 2024  |11-14            |[Testo 1](https://tinyurl.com/es1alrel)  [Soluzione1](https://tinyurl.com/es1sol) <br>[Testo 2](https://tinyurl.com/es2alrel) [Soluzione2](https://tinyurl.com/es2sol) |[How To Use Relax](https://tinyurl.com/howuserelax)                 |
-| SQL: Concetti di base                     | 18 Marzo 2024  |15-17            |                                 |                 |
-| SQL: Avanzato + MySQL                     | 22 Marzo 2024  |11-14            |                                 |                 |
-| Esercitazione MySQL                       | 25 Marzo 2024  |15-18            |                                 |                 |
+| SQL: Concetti di base + MySQL             | 18 Marzo 2024  |15-17            | [SQL Concetti base](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/Ea7PWN6Wr0RMuOPT3IpQJaQB3Cu2c1slBgImgfDWljRvzw?e=WoQl8g)                                 | [MySQL](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EadHbKXAMgVApYI3uqVpxLEBGqaffU0fWKpWTGmA5JK1hA?e=9ddYZ9)                |
+| Esercitazione MySQL                       | 22 Marzo 2024  |11-14            |                                 |                 |
+|SQL : Operatori Aggregati                  | 25 Marzo 2024  |15-18            |                                 |                 |
 | SQL Avanzato: Stored Procedure e Trigger  | 29 Marzo 2024  |11-13            |                                 |                 |
 | Esercitazione  Procedure                  | 05 Aprile 2024 |11-14            |                                 |                 |
 | Esercitazione  Trigger                    | 08 Aprile 2024 |15-18            |                                 |                 |
