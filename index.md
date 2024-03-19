@@ -22,30 +22,30 @@ Di seguito l'indirizzo per accedere al server del corso:
 
 Il programma delle lezioni è provvisorio e può subire variazioni.
 
-| Argomento                                 | Data           |Orario           | Slides                                                           | Codice/Altro|
-|-------------------------------------------|----------------|---------------- |----------------------------------------------------------------  |-----------------|
-| Introduzione Corso                        | 08 Marzo 2024  |11-13            |[Introduzione](https://tinyurl.com/introdbpz)                     |                 | 
-| Modello relazionale                       | 08 Marzo 2024  |11-13            |[Modello Relazionale](https://tinyurl.com/modelrelazionale)       |                 | 
-| Algebra relazionale                       | 11 Marzo 2024  |15-17            |[Algebra Relazionale](https://tinyurl.com/algebrarel)             |                 |
-| Esercitazione Algebra relazionale         | 15 Marzo 2024  |11-14            |[Testo 1](https://tinyurl.com/es1alrel)  [Soluzione1](https://tinyurl.com/es1sol) <br>[Testo 2](https://tinyurl.com/es2alrel) [Soluzione2](https://tinyurl.com/es2sol) |[How To Use Relax](https://tinyurl.com/howuserelax)                 |
-| SQL: Concetti di base + MySQL             | 18 Marzo 2024  |15-17            | [SQL Concetti base](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/Ea7PWN6Wr0RMuOPT3IpQJaQB3Cu2c1slBgImgfDWljRvzw?e=WoQl8g)                                 | [MySQL](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EadHbKXAMgVApYI3uqVpxLEBGqaffU0fWKpWTGmA5JK1hA?e=9ddYZ9)                |
-| Esercitazione MySQL                       | 22 Marzo 2024  |11-14            |                                 |                 |
-|SQL : Operatori Aggregati                  | 25 Marzo 2024  |15-18            |                                 |                 |
-| SQL Avanzato: Stored Procedure e Trigger  | 29 Marzo 2024  |11-13            |                                 |                 |
-| Esercitazione  Procedure                  | 05 Aprile 2024 |11-14            |                                 |                 |
-| Esercitazione  Trigger                    | 08 Aprile 2024 |15-18            |                                 |                 |
-| Esercitazione  Complessiva SQL - 1        | 12 Aprile 2024 |11-14            |                                 |                 |
-| Esercitazione  Complessiva SQL - 2        | 15 Aprile 2024 |15-18            |                                 |                 |
-| **Prova in itinere  SQL**                 | 19 Aprile 2024 |11-14            |                                 |                 |
-| NoSQL                                     | 03 Maggio 2024 |11-13            |                                 |                 |
-| Esercitazione NoSQL                       | 06 Maggio 2024 |15-18            |                                 |                 |
-| Progettazione Concettuale                 | 13 Maggio 2024 |11-13            |                                 |                 |
-| Esempi progettazione concettuale          | 17 Maggio 2024 |15-18            |                                 |                 |
-| Progettazione logica                      | 20 Maggio 2024 |15-17            |                                 |                 |
-| Esercitazione progettazione logica        | 24 Maggio 2024 |11-14            |                                 |                 |
-| Esercitazione progettazione               | 27 Maggio 2024 |15-19            |                                 |                 |
-| Esercitazione progettazione               | 31 Maggio 2024 |11-14            |                                 |                 | 
-| **Prova in itinere Progettazione**        | 07 Giugno 2024 |TBD              |                                 |                 | 
+| Argomento                                          | Data           |Orario           | Slides                                                           | Codice/Altro|
+|----------------------------------------------------|----------------|---------------- |----------------------------------------------------------------  |-----------------|
+| Introduzione Corso                                 | 08 Marzo 2024  |11-13            |[Introduzione](https://tinyurl.com/introdbpz)                     |                 | 
+| Modello relazionale                                | 08 Marzo 2024  |11-13            |[Modello Relazionale](https://tinyurl.com/modelrelazionale)       |                 | 
+| Algebra relazionale                                | 11 Marzo 2024  |15-17            |[Algebra Relazionale](https://tinyurl.com/algebrarel)             |                 |
+| Esercitazione Algebra relazionale                  | 15 Marzo 2024  |11-14            |[Testo 1](https://tinyurl.com/es1alrel)  [Soluzione1](https://tinyurl.com/es1sol) <br>[Testo 2](https://tinyurl.com/es2alrel) [Soluzione2](https://tinyurl.com/es2sol)                                                                                    |[How To Use Relax](https://tinyurl.com/howuserelax)                 |
+| SQL: Concetti di base + MySQL                      | 18 Marzo 2024  |15-17            | [SQL Concetti base](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/Ea7PWN6Wr0RMuOPT3IpQJaQB3Cu2c1slBgImgfDWljRvzw?e=WoQl8g)                                     | [MySQL](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EadHbKXAMgVApYI3uqVpxLEBGqaffU0fWKpWTGmA5JK1hA?e=9ddYZ9)                |
+| SQL Operatori Aggregati + Esercitazione MySQL Base | 22 Marzo 2024  |11-14            |                                 |                 |
+| SQL Query Nidificate + Esercitazione op. aggregati | 25 Marzo 2024  |15-18            |                                 |                 |
+| SQL Avanzato: Stored Procedure e Trigger           | 29 Marzo 2024  |11-13            |                                 |                 |
+| Esercitazione Procedure + Trigger                  | 05 Aprile 2024 |11-14            |                                 |                 |
+| Esercitazione  Complessiva SQL - 1                 | 08 Aprile 2024 |15-18            |                                 |                 |
+| Esercitazione  Complessiva SQL - 2                 | 12 Aprile 2024 |11-14            |                                 |                 |
+| Simulazione Prova in itinere                       | 15 Aprile 2024 |15-18            |                                 |                 |
+| **Prova in itinere  SQL**                          | 19 Aprile 2024 |11-14            |                                 |                 |
+| NoSQL                                              | 03 Maggio 2024 |11-13            |                                 |                 |
+| Esercitazione NoSQL                                | 06 Maggio 2024 |15-18            |                                 |                 |
+| Progettazione Concettuale                          | 13 Maggio 2024 |11-13            |                                 |                 |
+| Esempi progettazione concettuale                   | 17 Maggio 2024 |15-18            |                                 |                 |
+| Progettazione logica                               | 20 Maggio 2024 |15-17            |                                 |                 |
+| Esercitazione progettazione logica                 | 24 Maggio 2024 |11-14            |                                 |                 |
+| Esercitazione progettazione                        | 27 Maggio 2024 |15-19            |                                 |                 |
+| Esercitazione progettazione                        | 31 Maggio 2024 |11-14            |                                 |                 | 
+| **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD              |                                 |                 | 
         
 #### Esami
 
@@ -61,13 +61,20 @@ In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti
 #### Prove in itinere
 **Prova in itinere 1: SQL**
 L'accesso alla prova in itinere è subordinato alla consegna di:
-  - almeno 2 delle 3 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa. 
+  - almeno 2 delle 3 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa.
+
+    |#      | Esercitazioni                             | Data Esercitazione | 
+    |------ | ----------------------------------------- | -----------------  | 
+    | 1     | Esercitazione  Complessiva SQL - 1        | 08 Aprile 2024     | 
+    | 2     | Esercitazione  Complessiva SQL - 2        | 12 Aprile 2024     | 
+    | 3     | Simulazione Prova in itinere              | 15 Aprile 2024     |
+    
   - almeno 4 dei 5 homework che verranno assegnati durante la prima metà del corso
     
-    |#      | Homework                  | Data Assegnazione | Data Consegna    |
-    |------ | ------------------------- | ----------------  | ---------------- |
-    | 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1)| 15 Marzo 2024     | 22 Marzo 2024    |
-    | 2     |                           |                   |                  |
+    |#      | Homework                                                     | Data Assegnazione | Data Consegna    |
+    |------ | ------------------------------------------------------------ | ----------------  | ---------------- |
+    | 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1)         | 15 Marzo 2024     | 22 Marzo 2024    |
+    | 2     | MySQL Base                                                   | 22 Marzo 2024     | 29 Marzo 2024    |
     | 3     |                           |                   |                  |
     | 4     |                           |                   |                  |
     | 5     |                           |                   |                  |
