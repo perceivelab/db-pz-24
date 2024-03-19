@@ -63,21 +63,21 @@ In tutti i casi, è **obbligatoria** la prenotazione tramite il Portale studenti
 L'accesso alla prova in itinere è subordinato alla consegna di:
   - almeno 2 delle 3 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa.
 
-    |#      | Esercitazioni                             | Data Esercitazione | 
-    |------ | ----------------------------------------- | -----------------  | 
-    | 1     | Esercitazione  Complessiva SQL - 1        | 08 Aprile 2024     | 
-    | 2     | Esercitazione  Complessiva SQL - 2        | 12 Aprile 2024     | 
-    | 3     | Simulazione Prova in itinere              | 15 Aprile 2024     |
+|#      | Esercitazioni                             | Data Esercitazione | 
+|------ | ----------------------------------------- | -----------------  | 
+| 1     | Esercitazione  Complessiva SQL - 1        | 08 Aprile 2024     | 
+| 2     | Esercitazione  Complessiva SQL - 2        | 12 Aprile 2024     | 
+| 3     | Simulazione Prova in itinere              | 15 Aprile 2024     |
     
   - almeno 4 dei 5 homework che verranno assegnati durante la prima metà del corso
     
-    |#      | Homework                                                     | Data Assegnazione | Data Consegna    |
-    |------ | ------------------------------------------------------------ | ----------------  | ---------------- |
-    | 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1)         | 15 Marzo 2024     | 22 Marzo 2024    |
-    | 2     | MySQL Base                                                   | 22 Marzo 2024     | 29 Marzo 2024    |
-    | 3     |                           |                   |                  |
-    | 4     |                           |                   |                  |
-    | 5     |                           |                   |                  |
+|#      | Homework                                                     | Data Assegnazione | Data Consegna    |
+|------ | ------------------------------------------------------------ | ----------------  | ---------------- |
+| 1     | [Algebra Relazionale](https://tinyurl.com/relalghw1)         | 15 Marzo 2024     | 22 Marzo 2024    |
+| 2     | MySQL Base                                                   | 22 Marzo 2024     | 29 Marzo 2024    |
+| 3     |                           |                   |                  |
+| 4     |                           |                   |                  |
+| 5     |                           |                   |                  |
 
 #### Contatti e ricevimento
 
