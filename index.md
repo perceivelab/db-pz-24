@@ -77,7 +77,6 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 | 2     | [MySQL Base](https://tinyurl.com/hw2sql)                     | 22 Marzo 2024     | 29 Marzo 2024    |
 | 3     | [SQL Operatori Aggregati](https://tinyurl.com/hw3aggr)       | 28 Marzo 2024     | ~~04 Aprile 2024~~ 08 Aprile 2024  |
 | 4     | [Procedure e Trigger](https://tinyurl.com/hw4trigger)        | 29 Marzo 2024     | ~~09 Aprile 2024~~ 15 Aprile 2024  |
-| 5     |                           |                   |                  |
 
 #### Contatti e ricevimento
 
