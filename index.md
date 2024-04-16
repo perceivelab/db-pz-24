@@ -36,7 +36,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione  Complessiva SQL - 1                 | 08 Aprile 2024 |15-18            | [Esercitazione](https://tinyurl.com/sqlcompl1)                                 |[dati](https://tinyurl.com/sqlcompl1dati) <br> [Soluzione](https://tinyurl.com/9essol)                |
 | Esercitazione  Complessiva SQL - 2                 | 12 Aprile 2024 |11-14            |                                 |[Esercitazione](https://tinyurl.com/es10sql)  [Dati](https://tinyurl.com/es10dati)<br> [Soluzione](https://tinyurl.com/10soles)                  |
 | Simulazione Prova in itinere                       | 15 Aprile 2024 |15-18            |                                 |                 |
-| **Prova in itinere  SQL**                          | **29 Aprile 2024** |TBD              |                                 |                 |
+| **Prova in itinere  SQL**                          | **29 Aprile 2024** |15-19        |                                 |                 |
 | NoSQL                                              | 03 Maggio 2024 |11-13            |                                 |                 |
 | Esercitazione NoSQL                                | 06 Maggio 2024 |15-18            |                                 |                 |
 | Progettazione Concettuale                          | 13 Maggio 2024 |11-13            |                                 |                 |
