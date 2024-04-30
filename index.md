@@ -37,16 +37,17 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esercitazione  Complessiva SQL - 2                 | 12 Aprile 2024 |11-14            |                                 |[Esercitazione](https://tinyurl.com/es10sql)  [Dati](https://tinyurl.com/es10dati)<br> [Soluzione](https://tinyurl.com/10soles)                  |
 | Simulazione Prova in itinere                       | 15 Aprile 2024 |15-18            | [Testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETG6PpMprShPgl3ehDXHZ6YBSxp5LMeDjEtXiQ0D04QYqA?e=QLc3n4) | [Soluzione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXKNtto2dDNMtjij1LHwf3EBa0yyURGfVZtpaoKpvUKySw?e=wVIZRj)                                |                
 | **Prova in itinere  SQL**                          | **29 Aprile 2024** |15-19        |                                 |                 |
-| NoSQL                                              | 03 Maggio 2024 |11-13            |                                 |                 |
-| Esercitazione NoSQL                                | 06 Maggio 2024 |15-18            |                                 |                 |
-| Progettazione Concettuale                          | 13 Maggio 2024 |11-13            |                                 |                 |
-| Esempi progettazione concettuale                   | 17 Maggio 2024 |15-18            |                                 |                 |
-| Progettazione logica                               | 20 Maggio 2024 |15-17            |                                 |                 |
-| Esercitazione progettazione logica                 | 24 Maggio 2024 |11-14            |                                 |                 |
-| Esercitazione progettazione                        | 27 Maggio 2024 |15-19            |                                 |                 |
-| Esercitazione progettazione                        | 31 Maggio 2024 |11-14            |                                 |                 | 
+| Progettazione Concettuale                          | 03 Maggio 2024 |11-13            |                                 |                 |
+| Esempi progettazione concettuale                   | 06 Maggio 2024 |15-18            |                                 |                 |
+| Progettazione logica                               | 13 Maggio 2024 |11-13            |                                 |                 |
+| Esercitazione progettazione logica                 | 17 Maggio 2024 |15-18            |                                 |                 |
+| Esercitazione progettazione                        | 20 Maggio 2024 |15-17            |                                 |                 |
+| Esercitazione progettazione                        | 24 Maggio 2024 |11-14            |                                 |                 |
+| NoSQL                                              | 27 Maggio 2024 |15-19            |                                 |                 |
+| Esercitazione NoSQL                                | 31 Maggio 2024 |11-14            |                                 |                 | 
 | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD              |                                 |                 | 
-        
+         
+            
 #### Esami
 
 Gli studenti che **frequentano** il corso possono partecipare alle due prove in itinere, che saranno svolte durante il periodo delle lezioni: 1) prova pratica di SQL; 2) prova di progettazione.
@@ -77,6 +78,8 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 | 2     | [MySQL Base](https://tinyurl.com/hw2sql)                     | 22 Marzo 2024     | 29 Marzo 2024    |
 | 3     | [SQL Operatori Aggregati](https://tinyurl.com/hw3aggr)       | 28 Marzo 2024     | ~~04 Aprile 2024~~ 08 Aprile 2024  |
 | 4     | [Procedure e Trigger](https://tinyurl.com/hw4trigger)        | 29 Marzo 2024     | ~~09 Aprile 2024~~ 15 Aprile 2024  |
+
+**Prova in itinere 2: Progettazione**
 
 #### Contatti e ricevimento
 
