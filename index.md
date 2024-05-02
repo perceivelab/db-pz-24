@@ -41,9 +41,9 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Esempi progettazione concettuale                   | 06 Maggio 2024 |15-18            |                                 |                 |
 | Progettazione logica                               | 13 Maggio 2024 |11-13            |                                 |                 |
 | Esercitazione progettazione logica                 | 17 Maggio 2024 |15-18            |                                 |                 |
-| Esercitazione progettazione                        | 20 Maggio 2024 |15-17            |                                 |                 |
+| Esercitazione progettazione                        | 20 Maggio 2024 |15-18            |                                 |                 |
 | Esercitazione progettazione                        | 24 Maggio 2024 |11-14            |                                 |                 |
-| NoSQL                                              | 27 Maggio 2024 |15-19            |                                 |                 |
+| NoSQL                                              | 27 Maggio 2024 |15-18            |                                 |                 |
 | Esercitazione NoSQL                                | 31 Maggio 2024 |11-14            |                                 |                 | 
 | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD              |                                 |                 | 
          
