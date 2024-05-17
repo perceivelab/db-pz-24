@@ -40,7 +40,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Progettazione Concettuale                          | 03 Maggio 2024 |11-13            |    [Progettazione concettuale](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EXSbIChExnxIo3y-5Pn-8BwBVt-noLfHyH89e0AGWRbUtQ?e=focYpP)                             |                 |
 | Esempi progettazione concettuale                   | 06 Maggio 2024 |15-18            |                                 |   [Testi esercizi](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EXGHGqquu9JHgLYjhc88YUMBjtzfDkGQVrcuSRo5a7n-gA?e=EYyE4V)              |
 | Progettazione logica                               | 13 Maggio 2024 |11-13            |     [Progettazione logica](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EVWlG0twViRMlvZtZZ6ZwZEBeYP66uxA-E9-zfHBFCazkQ?e=pXiXZz)                            |                 |
-| Esercitazione progettazione logica                 | 17 Maggio 2024 |15-18            |                                 |                 |
+| Esercitazione progettazione logica                 | 17 Maggio 2024 |15-18            |                                 |[Esercizio 1](https://tinyurl.com/esproglog)                 |
 | Esercitazione progettazione                        | 20 Maggio 2024 |15-18            |                                 |                 |
 | Esercitazione progettazione                        | 24 Maggio 2024 |11-14            |                                 |                 |
 | NoSQL                                              | 27 Maggio 2024 |15-18            |                                 |                 |
