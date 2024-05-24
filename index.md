@@ -42,9 +42,9 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 | Progettazione logica                               | 13 Maggio 2024 |11-13            |     [Progettazione logica](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EVWlG0twViRMlvZtZZ6ZwZEBeYP66uxA-E9-zfHBFCazkQ?e=pXiXZz)                            |                 |
 | Esercitazione progettazione logica                 | 17 Maggio 2024 |15-18            |                                 |[Esercizio 1](https://tinyurl.com/esproglog)                 |
 | Esercitazione progettazione                        | 20 Maggio 2024 |15-18            |                                 | [Esercitazione](https://tinyurl.com/prog205)                 |
-| Esercitazione progettazione                        | 24 Maggio 2024 |11-14            |                                 |                 |
-| NoSQL                                              | 27 Maggio 2024 |15-18            |                                 |                 |
-| Esercitazione NoSQL                                | 31 Maggio 2024 |11-14            |                                 |                 | 
+| Esercitazione progettazione                        | 24 Maggio 2024 |11-14            |                                 |[Esercizio 1](https://tinyurl.com/es1cat) [Esercizio 2](https://tinyurl.com/es2conf)                 |
+| Esercitazione progettazione                        | 27 Maggio 2024 |15-18 <br>**AULA B POLO TECNOLOGICO**           |                                 |                 |
+| Esercitazione progettazione                        | 31 Maggio 2024 |11-14            |                                 |                 | 
 | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD              |                                 |                 | 
          
             
