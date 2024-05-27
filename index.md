@@ -24,8 +24,8 @@ Di seguito l'indirizzo per accedere al server del corso:
 
 Il programma delle lezioni è provvisorio e può subire variazioni.
 
-|         | Argomento                                          | Data           |Orario           | Slides                                                           | Codice/Altro|
-|          |----------------------------------------------------|----------------|---------------- |----------------------------------------------------------------  |-----------------|
+|          | Argomento                                          | Data           |Orario           | Slides                                                           | Codice/Altro|
+|----------|----------------------------------------------------|----------------|---------------- |----------------------------------------------------------------  |-----------------|
 |1         | Introduzione Corso                                 | 08 Marzo 2024  |11-13            |[Introduzione](https://tinyurl.com/introdbpz)                     |                 | 
 |1         | Modello relazionale                                | 08 Marzo 2024  |11-13            |[Modello Relazionale](https://tinyurl.com/modelrelazionale)       |                 | 
 |2         | Algebra relazionale                                | 11 Marzo 2024  |15-17            |[Algebra Relazionale](https://tinyurl.com/algebrarel)             |                 |
@@ -47,7 +47,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 |18        | Esercitazione progettazione                        | 24 Maggio 2024 |11-14            |                                 |[Esercizio 1](https://tinyurl.com/es1cat) [Esercizio 2](https://tinyurl.com/es2conf)                 |
 |19        | Esercitazione progettazione                        | 27 Maggio 2024 |15-18 <br>**AULA B POLO TECNOLOGICO**           |                                 |       [Esercitazione](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ERstLyT7XfVCnc-W-eGh4FsBRHZhnY_IrzFHNqwhYrnAlg?e=B3rd5s)          |
 |20        | Esercitazione progettazione                        | 31 Maggio 2024 |11-14            |                                 |                 | 
-| **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD              |                                 |                 | 
+|          | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD              |                                 |                 | 
          
             
 #### Esami
