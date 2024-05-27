@@ -13,7 +13,7 @@ layout: default
 #### Comunicazioni
 {: #tag}
 
-[2024_05_27] [**Risultati**](https://tinyurl.com/provapz294) Prova in itinere del 29/05/2024
+[2024_05_27] [**Risultati**](https://tinyurl.com/provapz294) Prova in itinere del 29/04/2024
 
 Durante il corso si utilizzerà **Discord** come canale principale di comunicazioni e per il supporto agli studenti.
 Di seguito l'indirizzo per accedere al server del corso:
