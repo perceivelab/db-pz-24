@@ -46,7 +46,7 @@ Il programma delle lezioni è provvisorio e può subire variazioni.
 |17        | Esercitazione progettazione                        | 20 Maggio 2024 |15-18            |                                 | [Esercitazione](https://tinyurl.com/prog205) [Soluzione](https://tinyurl.com/sol2prog)                |
 |18        | Esercitazione progettazione                        | 24 Maggio 2024 |11-14            |                                 |[Esercizio 1](https://tinyurl.com/escattext) [Esercizio 2]([https://tinyurl.com/es2conf](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EYdCF-eU955KstmVjQo66tYBBE1GDPQZVXm-Dvrlp3rgwg?e=xWXGxr))<br> [Soluzione 1](https://tinyurl.com/escater) [Soluzione 2](https://tinyurl.com/esconfsol)                |
 |19        | Esercitazione progettazione                        | 27 Maggio 2024 |15-18 <br>**AULA B POLO TECNOLOGICO**           |                                 |       [Esercitazione](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ERstLyT7XfVCnc-W-eGh4FsBRHZhnY_IrzFHNqwhYrnAlg?e=B3rd5s)          |
-|20        | Esercitazione progettazione                        | 31 Maggio 2024 |11-14            |                                 |                 | 
+|20        | Esercitazione progettazione                        | 31 Maggio 2024 |11-14            |                                 |        [Esercitazione](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EXqTqTOD0GRAigjaevnrzuoBS_pDP8of8lGaUgix4I9e1g?e=r6A24b)         | 
 |          | **Prova in itinere Progettazione**                 | 07 Giugno 2024 |TBD              |                                 |                 | 
          
             
